@@ -1,3 +1,3 @@
-my-certifications
-=================
-These contains various online certifications of me 
+These contains various online certifications I have completed 
+
+
