@@ -1,3 +1,3 @@
 my-certifications
 =================
-Go in to the folder to see how awesome I am !
+These contains various online certifications of me 
